@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NtpClient</name>
+    </assembly>
+    <members>
+        <member name="T:NtpClient.INtpConnection">
+            <summary>
+            Provides an interface to enable a class to return the current universal time.
+            </summary>
+        </member>
+        <member name="M:NtpClient.INtpConnection.GetUtc">
+            <summary>
+            Gets the current universal time.
+            </summary>
+        </member>
+        <member name="T:NtpClient.NtpConnection">
+            <summary>
+                Represents a connection that provides information from a ntp-server.
+            </summary>
+        </member>
+        <member name="M:NtpClient.NtpConnection.#ctor(System.String)">
+            <summary>
+                Initializes a new instance of the <see cref="T:NtpClient.NtpConnection" /> class.
+            </summary>
+            <param name="server">The server to connect to.</param>
+        </member>
+        <member name="M:NtpClient.NtpConnection.GetUtc">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

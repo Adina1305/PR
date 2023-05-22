@@ -1,0 +1,22 @@
+D:\Programarea în Rețea\laborator6\NTPClient\bin\Debug\NTPClient.exe.config
+D:\Programarea în Rețea\laborator6\NTPClient\bin\Debug\NTPClient.exe
+D:\Programarea în Rețea\laborator6\NTPClient\bin\Debug\NTPClient.pdb
+D:\Programarea în Rețea\laborator6\NTPClient\obj\Debug\NTPClient.csproj.AssemblyReference.cache
+D:\Programarea în Rețea\laborator6\NTPClient\obj\Debug\NTPClient.csproj.SuggestedBindingRedirects.cache
+D:\Programarea în Rețea\laborator6\NTPClient\obj\Debug\NTPClient.csproj.CoreCompileInputs.cache
+D:\Programarea în Rețea\laborator6\NTPClient\obj\Debug\NTPClient.exe
+D:\Programarea în Rețea\laborator6\NTPClient\obj\Debug\NTPClient.pdb
+D:\Programarea în Rețea\laborator6\NTPClient\bin\Debug\NtpClient.dll
+D:\Programarea în Rețea\laborator6\NTPClient\bin\Debug\NtpClient.xml
+D:\Programarea în Rețea\laborator6\NTPClient\obj\Debug\NTPClient.csproj.CopyComplete
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\bin\Debug\NTPClient.exe.config
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\bin\Debug\NTPClient.exe
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\bin\Debug\NTPClient.pdb
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\bin\Debug\NtpClient.dll
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\bin\Debug\NtpClient.xml
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\obj\Debug\NTPClient.csproj.AssemblyReference.cache
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\obj\Debug\NTPClient.csproj.SuggestedBindingRedirects.cache
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\obj\Debug\NTPClient.csproj.CoreCompileInputs.cache
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\obj\Debug\NTPClient.csproj.CopyComplete
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\obj\Debug\NTPClient.exe
+D:\Programarea în Rețea\laborator6\LL6 Pîntea A\NTPClient\obj\Debug\NTPClient.pdb
